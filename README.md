@@ -30,8 +30,12 @@ Baidu Cloud native share method is not persistent and become invalid due to some
 
 ## Install
 
-* Chrome : Click **Settings** -> **Extensions**, drag `Panlian.crx` file to the page, install it, or check **Developer mode** -> **Load unpacked extension**, navigate to the `chrome/release` folder.
+* Chrome : Click **Settings** -> **Extensions**, check **Developer mode** -> **Load unpacked extension**, navigate to the `chrome/release` folder.
+
+<img width="973" src="https://raw.githubusercontent.com/logonod/Panlian/master/.github/addExtension.gif">
+
 * Firefox : Open **about:debugging** in Firefox, click "Load Temporary Add-on" and navigate to the `chrome/release` folder, select `manifest.json`, click OK.
+
 ## Contribution
 
 Please make sure to read the [Contributing Guide](https://github.com/logonod/Panlian/blob/master/.github/CONTRIBUTING.md) before making a pull request.
