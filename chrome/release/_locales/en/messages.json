@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "Panlian"
+    },
+    "description": {
+        "message": "Assistant for share Baidu netdisk files"
+    },
+    "openContextMenuTitle": {
+        "message": "Export to aria2-rpc"
+    }
+}

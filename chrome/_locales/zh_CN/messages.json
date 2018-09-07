@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "百度盘链"
+    },
+    "description": {
+        "message": "可以方便地分享百度网盘文件。"
+    },
+    "openContextMenuTitle": {
+        "message": "导出到aria2-rpc"
+    }
+}
