@@ -1,4 +1,4 @@
-# Panlian [![Build Status](https://img.shields.io/circleci/project/acgotaku/BaiduExporter/master.svg)](https://circleci.com/gh/acgotaku/BaiduExporter/tree/master)
+# Panlian [![CircleCI](https://circleci.com/gh/logonod/Panlian.svg?style=svg)](https://circleci.com/gh/logonod/Panlian)
 
 Share Baidu Cloud files with Panlian.
 
