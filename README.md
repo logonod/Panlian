@@ -6,15 +6,15 @@ Export Baidu Cloud files address to aria2/aria2-rpc, support YAAW.
 
 Baidu Cloud native share method is not persistent and become invalid due to some reasons. A stable solution is acquired.
 
-<img width="973" src="https://raw.githubusercontent.com/logonod/Panlian/.github/problem.png">
+<img width="973" src="https://raw.githubusercontent.com/logonod/Panlian/master/.github/problem.png">
 
 ## Screenshot
 
-<img width="973" src="https://raw.githubusercontent.com/logonod/Panlian/.github/home.png">
+<img width="973" src="https://raw.githubusercontent.com/logonod/Panlian/master/.github/home.png">
 
-<img width="973" src="https://raw.githubusercontent.com/logonod/Panlian/.github/export.png">
+<img width="973" src="https://raw.githubusercontent.com/logonod/Panlian/master/.github/export.png">
 
-<img width="973" src="https://raw.githubusercontent.com/logonod/Panlian/.github/import.png">
+<img width="973" src="https://raw.githubusercontent.com/logonod/Panlian/master/.github/import.png">
 
 ## Usage
 
